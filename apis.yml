@@ -65,6 +65,10 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: Pricing
+  url: https://handlhealth.com/products/design
+- type: Plans
+  url: plans/handl-health-plans-pricing.yml
 - type: Website
   url: https://www.handlhealth.com/
 - type: About
